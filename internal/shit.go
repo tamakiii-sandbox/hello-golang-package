@@ -1,3 +1,3 @@
 package internal
 
-const SHIT = "golang"
+const SHIT = "******"

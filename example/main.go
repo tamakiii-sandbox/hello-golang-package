@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-    fmt.Printf("%s. I HATE %s", greet.Hello(), internal.SHIT)
+    fmt.Printf("%s. %s", greet.Hello(), internal.SHIT)
 }
